@@ -60,3 +60,7 @@ input[type="number"] {
 	font-size: 1em;
 }
 
+.botoes{
+    display: inline;
+}
+
