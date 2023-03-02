@@ -98,7 +98,7 @@ O jogo começa com o jogador 1 e alterna entre os jogadores a cada jogada. O jog
 
 ## 2. Link para a página do jogo
 
-https://mellow-pie-ebc50c.netlify.app/
+https://silly-florentine-3bef61.netlify.app/
 
 
 
