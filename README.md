@@ -1,6 +1,6 @@
 # Jogo-do-Nim
 
-### Este é um jogo Nim simples, desenvolvido em HTML, CSS, JavaScript e DOM.
+### Este é um jogo Nim simples, desenvolvido em HTML, CSS e JavaScript.
 
 ### Autor: Hugo Leonardo viana
 
