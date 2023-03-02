@@ -24,7 +24,7 @@
 
 [4. Como jogar](#4-como-jogar)
 
-[5. Créditos](#5-cr%C3%A9ditos) 
+[5. Referências](#5-refer%C3%AAncias) 
 
 [5. Licença do projeto](#6-licen%C3%A7a-do-projeto)
 
@@ -129,7 +129,7 @@ https://silly-florentine-3bef61.netlify.app/
 5. O jogador que remover o último palito da última pilha perde.
 
 
-## 5. Créditos
+## 5. Referências
 https://www.devmedia.com.br/guia/javascript/34372
 
 https://www.w3schools.com/js/default.asp
