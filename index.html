@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Jogo Nim</title>
+    <link rel="stylesheet" href="css/styles.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Gloock&family=Sevillana&family=Tilt+Prism&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <h1 id="titulo">Jogo Nim</h1>
+    <div id="tabuleiro">
+       
+
+        <div class="pilha">
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+        </div>
+        <div class="pilha">
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+        </div>
+        <div class="pilha">
+            <div class="palito"></div>
+            <div class="palito"></div>
+            <div class="palito"></div>
+        </div>
+        <div id="jogador">Jogador 1</div>
+        <div>
+            <label for="pilha">Pilha:</label>
+            <select id="pilha">
+                <option value="1">Pilha 1</option>
+                <option value="2">Pilha 2</option>
+                <option value="3">Pilha 3</option>
+            </select>
+        </div>
+        <div id="obj">
+            <label for="objetos">Objetos:</label>
+            <input type="number" id="objetos" min="1" max="3">
+        </div>
+        <button id="jogar">Jogar</button>
+        <button id="novo-jogo">Novo Jogo</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
