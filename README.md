@@ -1,6 +1,6 @@
 # Jogo-do-Nim
 
-### Este é um jogo Nim simples, desenvolvido em HTML, CSS e JavaScript.
+### Este é um jogo Nim simples, desenvolvido em HTML, CSS, JavaScript e DOM.
 
 ## Sumário
 [1.0 Descrição](#1-descri%C3%A7%C3%A3o)
